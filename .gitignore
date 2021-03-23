@@ -4,3 +4,6 @@ build/*
 .mvn
 .project
 .settings
+target/*
+.metadata
+.vscode
